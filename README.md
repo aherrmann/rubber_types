@@ -88,7 +88,9 @@ int call_method(const MyConcept &obj) {
 
 ## Examples
 
-Have a look at the `examples` folder.
+Have a look at the `examples` folder, or read my [blog
+post](http://aherrmann.github.io/programming/2014/10/19/type-erasure-with-merged-concepts/)
+for more behind the scenes information.
 
 
 ## License
