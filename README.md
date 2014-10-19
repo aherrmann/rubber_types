@@ -96,4 +96,7 @@ for more behind the scenes information.
 
 ## License
 
-MIT
+[MIT](http://opensource.org/licenses/MIT)
+
+I cannot stress the *no warranty* bit enough. This code has not been tested in
+any production setting. Consider it a proof of concept at this stage.
