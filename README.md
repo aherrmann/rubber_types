@@ -86,6 +86,7 @@ int call_method(const MyConcept &obj) {
 }
 ```
 
+
 ## Examples
 
 Have a look at the `examples` folder, or read my [blog
