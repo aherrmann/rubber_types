@@ -2,6 +2,8 @@
 //
 // This is a re-implementation of the example, that Sean Parent gives in his
 // presentation [1] using the Rubber-Type library.
+//
+// [1]: https://www.youtube.com/watch?v=bIhUE5uUFOA
 
 #include <cassert>
 #include <iostream>
